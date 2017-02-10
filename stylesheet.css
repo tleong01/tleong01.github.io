@@ -1,0 +1,15 @@
+div {
+  border_radius: 10px;
+}
+
+body {
+  background-color: gold;
+  font-size: 20px;
+  font-family: Ariel;
+  color: Purple;
+}
+
+h3 {
+  font-size: 30px;
+  color: Red;
+}
