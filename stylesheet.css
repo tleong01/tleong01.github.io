@@ -1,6 +1,4 @@
-div {
-  border_radius: 10px;
-}
+
 
 body {
   background-color: gold;
@@ -8,6 +6,10 @@ body {
   font-family: Ariel;
   color: Purple;
 }
+
+p {
+  margin-left: 10%;
+  morgin-right: 10%;
 
 h3 {
   font-size: 30px;
